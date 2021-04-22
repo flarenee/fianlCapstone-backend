@@ -1,7 +1,7 @@
 # Thinkful-Final-Capstone: Restaurant Reservation System   
 
 ## Live Demo
-[Restaurant Reservation System](https://fc-front-end.vercel.app/dashboard "Restaurant Reservation System")      
+[Restaurant Reservation System](https://final-capstone-frontend.vercel.app/dashboard "Restaurant Reservation System")      
 
 
 
@@ -82,4 +82,4 @@ LOG_LEVEL=info
 ```
     
  Make sure to grab the frontend from   
-     [Restaurant Reservation System Frontend](https://github.com/JonathanMartin-gif/FC-Front-End "Restaurant Reservation System Frontend")
+     [Restaurant Reservation System Frontend](https://github.com/flarenee/FinalCapstone-frontend "Restaurant Reservation System Frontend")
